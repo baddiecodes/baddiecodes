@@ -6,7 +6,7 @@
 <tr>
 <td width="62%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/mewtu-wordmark.svg" width="100%" alt="Animated 3D Mewtu wordmark — founder, creative technologist, building in public" />
+<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-wordmark.svg" width="100%" alt="Animated 3D Mewtu wordmark — founder, creative technologist, building in public" />
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&pause=1100&color=743C91&center=true&vCenter=true&width=650&height=70&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." width="100%" alt="Animated typing: consumer technology meets creativity; building products with code and AI; from an idea to something real; make useful things, make them fun and fundable" />
