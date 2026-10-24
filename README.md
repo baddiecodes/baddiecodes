@@ -255,9 +255,10 @@ I'm interested in more than software.
 
 <div align="center">
 
-## 07. make something worth noticing
+## 07. let's make something useful
 
-I like working with people who care about craft, context, and shipping the useful version.
+I like ambitious ideas, unusual interactions, and people who actually build things.
+Open to meaningful collaborations, creative experiments, and interesting conversations.
 
 <br/>
 
