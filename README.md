@@ -8,14 +8,14 @@
 
 <br/>
 
-<a href="https://x.com/mewtuta"><img src="https://img.shields.io/badge/X-3D0F3F?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://github.com/baddiecodes"><img src="https://img.shields.io/badge/GitHub-743C91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=3D0F3F" alt="Yappa" /></a>
-<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-3D0F3F?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
+<a href="https://x.com/mewtuta"><img src="https://img.shields.io/badge/X-07050C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/baddiecodes"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
+<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=baddiecodes&label=PROFILE+VIEWS&color=743C91&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=baddiecodes&label=PROFILE+VIEWS&color=C59BFF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -59,13 +59,13 @@ Not everything starts with knowing how to code. Sometimes it starts with being c
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TypeScript-3D0F3F?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-743C91?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Move-C59BFF?style=flat-square&logoColor=3D0F3F" alt="Move" />
-<img src="https://img.shields.io/badge/HTML-3D0F3F?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-743C91?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Shell-C59BFF?style=flat-square&logo=gnubash&logoColor=3D0F3F" alt="Shell" />
-<img src="https://img.shields.io/badge/SQL-3D0F3F?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/TypeScript-07050C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-A66CCD?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Move-C59BFF?style=flat-square&logoColor=07050C" alt="Move" />
+<img src="https://img.shields.io/badge/HTML-07050C?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-A66CCD?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Shell-C59BFF?style=flat-square&logo=gnubash&logoColor=07050C" alt="Shell" />
+<img src="https://img.shields.io/badge/SQL-07050C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
 <br/><br/>
 
@@ -90,7 +90,7 @@ No terminal required.
 **AI · Creative workflows · Education**
 
 <a href="https://github.com/baddiecodes/claude-cursor-tips-for-creatives">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-3D0F3F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -105,7 +105,7 @@ Built around context efficiency, API cost reduction, and cleaner AI interactions
 **AI · Developer tools · Optimization**
 
 <a href="https://github.com/baddiecodes/token-slayer">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-743C91?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -122,7 +122,7 @@ Connect Phantom, create agent wallets, simulate tasks and devnet payments, and v
 **Solana · AI Agents · Fintech**
 
 <a href="https://github.com/baddiecodes/qonnek">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-743C91?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -137,7 +137,7 @@ Includes builder resources, workshops, submission details, and Demo Day informat
 **Community · Web · Developer Events**
 
 <a href="https://github.com/baddiecodes/STTH-buildathon">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-3D0F3F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -175,12 +175,12 @@ A web project from my development experiments.
 
 A platform exploring how brands and shoppers connect through content, participation, and rewards.
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-743C91?style=for-the-badge&labelColor=3D0F3F" alt="Building" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-A66CCD?style=for-the-badge&labelColor=07050C" alt="Building" />
 
 <br/><br/>
 
 <a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/MEET_YAPPA-C59BFF?style=for-the-badge&logoColor=3D0F3F" alt="Yappa website" />
+<img src="https://img.shields.io/badge/MEET_YAPPA-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa website" />
 </a>
 
 </div>
@@ -191,9 +191,9 @@ A platform exploring how brands and shoppers connect through content, participat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baddiecodes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C59BFF&text_color=FFF8EF&icon_color=B47CE0&ring_color=743C91" width="49%" alt="Mewtu GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=baddiecodes&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="Mewtu GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baddiecodes&layout=compact&hide_border=true&bg_color=0D1117&title_color=C59BFF&text_color=FFF8EF" width="49%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baddiecodes&layout=compact&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF" width="49%" alt="Most used languages" />
 
 <br/><br/>
 
@@ -207,7 +207,7 @@ A platform exploring how brands and shoppers connect through content, participat
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=baddiecodes&theme=dark&hide_border=true&background=0D1117&ring=C59BFF&fire=AD7AD1&currStreakLabel=C59BFF&sideLabels=FFF8EF&dates=AAA0B5" width="75%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=baddiecodes&theme=dark&hide_border=true&background=07050C&ring=C59BFF&fire=A66CCD&currStreakLabel=C59BFF&sideLabels=E8D7FF&dates=B89AD8" width="75%" alt="GitHub contribution streak" />
 
 </div>
 
@@ -230,10 +230,10 @@ I'm interested in more than software.
 <div align="center">
 
 <a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/YAPPA-3D0F3F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YAPPA-07050C?style=for-the-badge" />
 </a>
 <a href="https://junohauz.xyz">
-<img src="https://img.shields.io/badge/JUNOHAUZ-743C91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JUNOHAUZ-A66CCD?style=for-the-badge" />
 </a>
 <a href="https://luma.com/user/mews">
 <img src="https://img.shields.io/badge/EVENTS-C59BFF?style=for-the-badge" />
@@ -266,6 +266,6 @@ Open to meaningful collaborations, creative experiments, and interesting convers
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3D0F3F,50:743C91,100:C59BFF" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07050C,50:3D0F3F,100:C59BFF" width="100%" alt="Footer" />
 
 </div>
