@@ -261,7 +261,7 @@ I like working with people who care about craft, context, and shipping the usefu
 
 <br/>
 
-<img src="https://www.gitskins.com/api/readme-reference/contact?username=baddiecodes&theme=neon&v=readme-reference-2" width="100%" alt="Mewtu contact card" />
+<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/contact-card.svg" width="100%" alt="Mewtu contact card" />
 
 <br/>
 
