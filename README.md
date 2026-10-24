@@ -255,17 +255,17 @@ I'm interested in more than software.
 
 <div align="center">
 
-## 07. let's make something useful
+## 07. make something worth noticing
 
-I like ambitious ideas, unusual intersections, and people who actually build things.
-
-Open to meaningful collaborations, creative experiments, and interesting conversations.
+I like working with people who care about craft, context, and shipping the useful version.
 
 <br/>
 
-<a href="https://x.com/mewtuta">
-<img src="https://img.shields.io/badge/LET'S_TALK_ON_X-3D0F3F?style=for-the-badge&logo=x&logoColor=white" alt="Contact on X" />
-</a>
+<img src="https://www.gitskins.com/api/readme-reference/contact?username=baddiecodes&theme=neon&v=readme-reference-2" width="100%" alt="Mewtu contact card" />
+
+<br/>
+
+<a href="https://github.com/baddiecodes">GitHub</a> · <a href="https://x.com/mewtuta">X</a>
 
 <br/><br/>
 
