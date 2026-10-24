@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=60&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+delightful." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=60&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun and fundable." alt="Typing introduction" />
 </a>
 
 <br/>
@@ -48,7 +48,7 @@ const mewtu = {
     "Neurotechnology"
   ],
   languages: ["TypeScript", "JavaScript", "Move"],
-  philosophy: "Make useful things, then make them delightful."
+  philosophy: "Make useful things, then make them fun and fundable."
 };
 ```
 
