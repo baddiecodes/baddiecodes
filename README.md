@@ -1,44 +1,26 @@
 <div align="center">
 
-<sub>MEWTU · CREATIVE TECHNOLOGIST · LIVE</sub>
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-wordmark.svg" width="100%" alt="Animated 3D Mewtu wordmark — founder, creative technologist, building in public" />
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&pause=1100&color=743C91&center=true&vCenter=true&width=650&height=70&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." width="100%" alt="Animated typing: consumer technology meets creativity; building products with code and AI; from an idea to something real; make useful things, make them fun and fundable" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=baddiecodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62388011%3Fu%3D56c7711829606083a25b2112ac680b6fbb5a3e3c%26v%3D4&variant=living-identity&label=mewtu&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=baddiecodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62388011%3Fu%3D56c7711829606083a25b2112ac680b6fbb5a3e3c%26v%3D4&variant=living-identity&label=mewtu&v=wow-living-identity-1&mode=dark" width="100%" alt="Mewtu animated Living Identity header with ASCII portrait generated from GitHub avatar" />
+</picture>
 
 <br/>
 
-<a href="https://x.com/mewtuta">
-<img src="https://img.shields.io/badge/X-3D0F3F?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://github.com/baddiecodes">
-<img src="https://img.shields.io/badge/GitHub-743C91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=3D0F3F" alt="Yappa" />
-</a>
-<a href="https://junohauz.xyz">
-<img src="https://img.shields.io/badge/Junohauz-3D0F3F?style=for-the-badge&logoColor=white" alt="Junohauz" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." width="100%" alt="Animated typing introduction" />
+
+<br/>
+
+<a href="https://x.com/mewtuta"><img src="https://img.shields.io/badge/X-3D0F3F?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/baddiecodes"><img src="https://img.shields.io/badge/GitHub-743C91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=3D0F3F" alt="Yappa" /></a>
+<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-3D0F3F?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=baddiecodes&label=PROFILE+VIEWS&color=743C91&style=flat-square" alt="Profile views" />
 
-</td>
-<td width="38%" valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-ascii-fox.svg" width="100%" alt="ASCII fox portrait loading animation" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 <sub>MATERIALISTIC NOMAD · NOBODY OWNS A FOX</sub>
 
