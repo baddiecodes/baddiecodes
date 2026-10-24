@@ -27,16 +27,16 @@
 const mewtu = {
   github: "@baddiecodes",
   role: "Founder & Creative Technologist",
-  based: "Thailand ↔ Europe",
+  aka: "Mewtwo, Tech Angel, Famous Baddie, Emily",
   currently: "Building Yappa",
   interests: [
     "Consumer Technology",
-    "AI & Automation",
-    "Product Design",
+    "AI & Creative Technology",
+    "3D Wearable Fashion",
     "Onchain Products",
     "Neurotechnology"
   ],
-  languages: ["TypeScript", "JavaScript", "Move"],
+  languages: ["TypeScript", "JavaScript", "Move", "ATC Radio English"],
   philosophy: "Make useful things, then make them fun and fundable."
 };
 ```
