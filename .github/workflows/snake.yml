@@ -1,5 +1,5 @@
 
-name: Generate Yappa Purple Snake
+name: Generate Baddie Purple Snake
 
 on:
   workflow_dispatch:
