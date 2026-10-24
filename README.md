@@ -34,7 +34,7 @@
 </td>
 <td width="38%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/yappa-ascii-fox.svg" width="100%" alt="Animated lavender ASCII fox portrait" />
+<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/ascii-fox.png" width="92%" alt="ASCII fox portrait" />
 
 </td>
 </tr>
