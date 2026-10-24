@@ -1,13 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=baddiecodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62388011%3Fu%3D56c7711829606083a25b2112ac680b6fbb5a3e3c%26v%3D4&variant=living-identity&label=mewtu&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=baddiecodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62388011%3Fu%3D56c7711829606083a25b2112ac680b6fbb5a3e3c%26v%3D4&variant=living-identity&label=mewtu&v=wow-living-identity-1&mode=dark" width="100%" alt="Mewtu animated Living Identity header with ASCII portrait generated from GitHub avatar" />
-</picture>
+<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-living-identity.svg" width="100%" alt="Baddie ID animated purple 3D Mewtu wordmark and loading ASCII portrait" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." width="100%" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." width="100%" alt="Animated introduction with four rotating messages" />
 
 <br/>
 
@@ -19,10 +16,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=baddiecodes&label=PROFILE+VIEWS&color=743C91&style=flat-square" alt="Profile views" />
-
-<br/>
-
-<sub>MATERIALISTIC NOMAD · NOBODY OWNS A FOX</sub>
 
 </div>
 
