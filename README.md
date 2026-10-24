@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:3D0F3F,50:743C91,100:C59BFF&text=MEWTU&fontColor=FFF8EF&fontSize=70&fontAlignY=38&desc=founder%20%2F%20creative%20technologist%20%2F%20building%20in%20public&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Mewtu GitHub banner" />
@@ -6,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=60&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun and fundable." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=60&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." alt="Typing introduction" />
 </a>
 
 <br/>
@@ -208,12 +207,12 @@ A platform exploring how brands and shoppers connect through content, participat
 
 <br/><br/>
 
-<h3>the purple contribution trail</h3>
+<h3>MEWTU CONTRIBUTION TRAIL</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baddiecodes/baddiecodes/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baddiecodes/baddiecodes/output/github-snake.svg" />
-  <img alt="Yappa purple animated GitHub contribution snake" src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/output/github-snake.svg" width="100%" />
+  <img alt="Baddie GitHub contribution snake" src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/output/github-snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
@@ -272,7 +271,7 @@ Open to meaningful collaborations, creative experiments, and interesting convers
 
 **less perfection. more experiments.**
 
-<sub>made by <a href="https://github.com/baddiecodes">mewtu</a> · code, AI & a little chaos</sub>
+<sub>made by <a href="https://github.com/baddiecodes">mewtu</a> · code, AI & a little baddie</sub>
 
 <br/><br/>
 
