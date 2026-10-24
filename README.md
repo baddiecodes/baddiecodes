@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:3D0F3F,50:743C91,100:C59BFF&text=MEWTU&fontColor=FFF8EF&fontSize=70&fontAlignY=38&desc=founder%20%2F%20creative%20technologist%20%2F%20building%20in%20public&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Mewtu GitHub banner" />
+<sub>MEWTU · CREATIVE TECHNOLOGIST · LIVE</sub>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/yappa-wordmark.svg" width="100%" alt="Animated 3D Mewtu wordmark — founder, creative technologist, building in public" />
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=60&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&pause=1100&color=743C91&center=true&vCenter=true&width=650&height=70&lines=consumer+technology+meets+creativity;building+products+with+code+%2B+AI;from+an+idea+to+something+real;make+useful+things.+make+them+fun+and+fundable." width="100%" alt="Animated typing: consumer technology meets creativity; building products with code and AI; from an idea to something real; make useful things, make them fun and fundable" />
 </a>
 
 <br/>
@@ -26,6 +30,17 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=baddiecodes&label=PROFILE+VIEWS&color=743C91&style=flat-square" alt="Profile views" />
+
+</td>
+<td width="38%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/yappa-ascii-fox.svg" width="100%" alt="Animated lavender ASCII fox portrait" />
+
+</td>
+</tr>
+</table>
+
+<sub>THAILAND ↔ EUROPE · NOBODY OWNS A FOX</sub>
 
 </div>
 
