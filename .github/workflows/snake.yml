@@ -1,0 +1,32 @@
+
+name: Generate Yappa Purple Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate purple snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: baddiecodes
+          outputs: |
+            dist/github-snake.svg?color_snake=%23C59BFF&color_dots=%23FFF8EF,%23EAD8F5,%23C59BFF,%23743C91,%233D0F3F
+            dist/github-snake-dark.svg?color_snake=%23C59BFF&color_dots=%230D1117,%23452A52,%23743C91,%23A96AD1,%23D5A6FF
+
+      - name: Publish snake animations
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
