@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="540" viewBox="0 0 1100 540" role="img" aria-label="Open channel, build the next chapter. GitHub @baddiecodes. X @mewtuta.">
+<rect width="1100" height="540" rx="25" fill="#FFF8EF"/>
+<rect x="1" y="1" width="1098" height="538" rx="24" fill="none" stroke="#C59BFF" stroke-width="2"/>
+<text x="48" y="60" font-family="monospace" font-size="15" letter-spacing="5" fill="#743C91">OPEN CHANNEL</text>
+<text x="48" y="120" font-family="monospace" font-size="39" fill="#3D0F3F">Build the next chapter</text>
+<line x1="48" y1="151" x2="1050" y2="151" stroke="#C59BFF" stroke-width="2" stroke-dasharray="9 16"/>
+<rect x="48" y="190" width="34" height="34" rx="10" fill="#3D0F3F"/>
+<path d="M59 215v-4c-5-4-5-13 2-16 6-3 15 1 15 9 0 4-2 7-5 9v3h-3v-6h-4v6h-3v-6" fill="none" stroke="#FFF8EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="111" y="213" font-family="monospace" font-size="18" letter-spacing="2" fill="#743C91">GITHUB</text>
+<text x="295" y="213" font-family="monospace" font-size="23" fill="#3D0F3F">@baddiecodes</text>
+<rect x="48" y="261" width="34" height="34" rx="10" fill="#743C91"/>
+<path d="M57 269l17 18m-17 0l17-18" fill="none" stroke="#FFF8EF" stroke-width="2.5"/>
+<text x="111" y="285" font-family="monospace" font-size="18" letter-spacing="2" fill="#743C91">X</text>
+<text x="295" y="285" font-family="monospace" font-size="23" fill="#3D0F3F">@mewtuta</text>
+<circle cx="911" cy="288" r="112" fill="#F0E0FA" stroke="#C59BFF" stroke-width="2"/>
+<circle cx="911" cy="288" r="89" fill="none" stroke="#743C91" stroke-opacity=".23" stroke-width="2" stroke-dasharray="86 18 43 26"/>
+<circle cx="911" cy="288" r="60" fill="none" stroke="#C59BFF" stroke-width="2" stroke-dasharray="70 20"/>
+<text x="48" y="485" font-family="monospace" font-size="18" fill="#743C91">creative technology / meaningful collaborations</text>
+<text x="1050" y="513" text-anchor="end" font-family="monospace" font-size="12" fill="#743C91">MEWTU · YAPPA PURPLE</text>
+</svg>
