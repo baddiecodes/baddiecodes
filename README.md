@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-living-identity.svg" width="100%" alt="Baddie ID animated purple 3D Mewtu wordmark and loading ASCII portrait" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-living-identity-light.svg" />
+  <img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/baddie-living-identity-dark.svg" width="100%" alt="Baddie ID animated purple 3D Mewtu wordmark and loading ASCII portrait" />
+</picture>
 
 <br/>
 
@@ -191,9 +194,15 @@ A platform exploring how brands and shoppers connect through content, participat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baddiecodes&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="Mewtu GitHub statistics" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=baddiecodes&show_icons=true&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F&icon_color=743C91&ring_color=A66CCD" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baddiecodes&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="Mewtu GitHub statistics" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baddiecodes&layout=compact&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF" width="49%" alt="Most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baddiecodes&layout=compact&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baddiecodes&layout=compact&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF" width="49%" alt="Most used languages" />
+</picture>
 
 <br/><br/>
 
@@ -207,7 +216,10 @@ A platform exploring how brands and shoppers connect through content, participat
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=baddiecodes&theme=dark&hide_border=true&background=07050C&ring=C59BFF&fire=A66CCD&currStreakLabel=C59BFF&sideLabels=E8D7FF&dates=B89AD8" width="75%" alt="GitHub contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=baddiecodes&theme=default&hide_border=true&background=FFF8EF&ring=743C91&fire=A66CCD&currStreakLabel=743C91&sideLabels=3D0F3F&dates=743C91" />
+  <img src="https://streak-stats.demolab.com?user=baddiecodes&theme=dark&hide_border=true&background=07050C&ring=C59BFF&fire=A66CCD&currStreakLabel=C59BFF&sideLabels=E8D7FF&dates=B89AD8" width="75%" alt="GitHub contribution streak" />
+</picture>
 
 </div>
 
@@ -252,7 +264,10 @@ Open to meaningful collaborations, creative experiments, and interesting convers
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/contact-card.svg" width="100%" alt="Mewtu contact card" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/contact-card-light.svg" />
+  <img src="https://raw.githubusercontent.com/baddiecodes/baddiecodes/main/assets/contact-card-dark.svg" width="100%" alt="Mewtu contact card" />
+</picture>
 
 <br/>
 
